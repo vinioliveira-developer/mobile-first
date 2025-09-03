@@ -45,5 +45,5 @@ img {
 #tablet {display: none;}
 #print {display: none; }
 #pc {display: none;}
-#tv {display: none;}
+#tv {display: none;} /* Esse padrão deve ser copiado e colado em todas as @medias */
 
